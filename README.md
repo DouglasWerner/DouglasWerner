@@ -1,9 +1,7 @@
 ### Olá! eu sou Douglas Williams Werner
 
 - 🔭 Hoje trabalho com suporte técnico
-- 🌱 Estudando Desenvolvimento web Full Stack
-- 🌱 Estudando Desenvolvimento web Full Stack
-
+- 🌱 Estudando Desenvolvimento web Full Stack e Sistemas de Informação
 - 📫 Contate-me no email: douglaswerner10@gmail.com
 - 😄 Pronomes: Ele/Dele
 
