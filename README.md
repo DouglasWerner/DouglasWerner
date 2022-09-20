@@ -1,4 +1,4 @@
-### Olá! eu sou Douglas Williams Werner
+### Olá! eu sou Douglas Werner
 
 - 🔭 Hoje trabalho com suporte técnico
 - 🌱 Estudando Desenvolvimento web Full Stack e Sistemas de Informação
