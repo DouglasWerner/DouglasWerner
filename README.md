@@ -1,9 +1,9 @@
 ### Olá! eu sou Douglas Werner
 
-- 🔭 Hoje trabalho com suporte técnico
-- 🌱 Estudando Desenvolvimento web Full Stack e Sistemas de Informação
-- 📫 Contate-me no email: douglaswerner10@gmail.com
-- 😄 Pronomes: Ele/Dele
+- :relaxed: I am a front-end programmer
+- 🔭 Today I work with technical support
+- 🌱 Currently attending college for Information Systems and Web Development Full Stack Technicial
+- 😄 Pronouns: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/DouglasWerner">
@@ -19,7 +19,7 @@
 </div>
 
 ##
-
+- 📫 Contact me:
 <div> 
   <a href="https://www.instagram.com/douglaswerner_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:douglaswerner10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
