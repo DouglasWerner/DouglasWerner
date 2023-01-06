@@ -2,7 +2,7 @@
 
 - :relaxed: I am a front-end programmer
 - 🔭 Today I work with technical support
-- 🌱 Currently attending college for Information Systems and Web Development Full Stack Technicial
+- 🌱 Currently attending college for Information Systems and Web Development Full Stack
 - 😄 Pronouns: Ele/Dele
 
 <div align="center">
