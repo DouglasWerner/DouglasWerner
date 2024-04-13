@@ -1,6 +1,6 @@
 ### Hi! I am Douglas Werner
 
-- :relaxed: I am a front-end programmer
+- :relaxed: I am a front-end and back-end programmer
 - 🔭 Today I work with technical support
 - 🌱 Currently attending college for Information Systems and Web Development Full Stack
 - 😄 Pronouns: Ele/Dele
